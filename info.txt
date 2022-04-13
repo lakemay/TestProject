@@ -2,3 +2,5 @@ this info.txt
 COmmit #2 druing squash activity
 
 commit #3 activity
+
+Commit #4
