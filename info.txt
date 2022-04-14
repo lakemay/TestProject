@@ -22,4 +22,9 @@ Feature 1
 =======
 
 Feature 2
+<<<<<<< HEAD
 >>>>>>> 1db08b9 (commit2)
+=======
+
+Rebase 3
+>>>>>>> f34929d (commit3)
