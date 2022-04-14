@@ -10,6 +10,7 @@ Commit #4
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Rebase 3
 
 =======
@@ -28,3 +29,6 @@ Feature 2
 
 Rebase 3
 >>>>>>> f34929d (commit3)
+=======
+commit 14 started rebase deve 2 commit 1
+>>>>>>> 4ac95cd (Commit #14 - started rebase deve 2 commit 1)
