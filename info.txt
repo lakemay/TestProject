@@ -17,4 +17,9 @@ Feature 2
 >>>>>>> c2c85e1 (commit 2-1)
 =======
 Feature 1
+<<<<<<< HEAD
 >>>>>>> 4d2e174 (commit1)
+=======
+
+Feature 2
+>>>>>>> 1db08b9 (commit2)
