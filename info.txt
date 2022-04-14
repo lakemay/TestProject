@@ -1,1 +1,3 @@
 this info.txt
+
+Reset 
